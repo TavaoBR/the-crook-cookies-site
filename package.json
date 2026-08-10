@@ -1,0 +1,22 @@
+{
+  "name": "the-crook-cookies-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "flowbite": "^4.0.2",
+    "flowbite-vue": "^0.4.0",
+    "vue": "^3.5.40"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-vue": "^6.0.8",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.2.0"
+  }
+}
